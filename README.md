@@ -6,6 +6,9 @@ Disciplina: Programação Orientada a Objetos
 
 Integrante: Letícia Pires do Rosário.
 
+
+Diagrama de classes:
+
 ```mermaid
 classDiagram
     %% Hierarquia de Herança
@@ -79,6 +82,7 @@ classDiagram
         }
     }
 ```
+
 
 
 Tabela de Rotas:
