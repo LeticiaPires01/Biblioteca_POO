@@ -1,6 +1,6 @@
 # Biblioteca_POO
 
-# Prova em grupo — Construa o backend do seu sistema
+# Prova — Construa o backend do seu sistema
 
 Disciplina: Programação Orientada a Objetos
 
