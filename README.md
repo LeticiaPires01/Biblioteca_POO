@@ -9,16 +9,20 @@ Integrante: Letícia Pires do Rosário.
 
 Como rodar o prjeto:
 1. Instalar as dependências
+   
    No terminal, na pasta raiz do repositório (onde se encontra o ficheiro requirements.txt) execute o comando para instalar as bibliotecas necessárias:
    Bashpip install -r requirements.txt
    
 2. Iniciar o servidor da API
-Para levantar a aplicação, execute o comando:   Bashuvicorn main:app --reload
+   
+   Para levantar a aplicação, execute o comando:   Bashuvicorn main:app --reload
 
 3. Aceitar à documentação das rotas
-Assim que o terminal indicar que a aplicação está correndo, abra o navegador de internet e insira ao endereço abaixo. É aqui que as rotas aparecem e podem ser testadas de forma interativa (Swagger UI): http://127.0.0.1:8000/docs
+   
+   Assim que o terminal indicar que a aplicação está correndo, abra o navegador de internet e insira ao endereço abaixo. É aqui que as rotas aparecem e podem ser testadas de forma interativa (Swagger UI): http://127.0.0.1:8000/docs
 
 4. Executar a verificação do sistema
+   
    Para garantir que todas as regras de negócio e de arquitetura estão sendo cumpridas, abra um novo terminal na raiz do projeto e execute o arquivo de testes: verificar.py
 
 
